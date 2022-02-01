@@ -64,6 +64,7 @@
   --bs-body-bg: #fff;
 }
 
+
 *,
 *::before,
 *::after {
@@ -11418,6 +11419,10 @@ video.bg-video {
   height: 4rem;
   width: 4rem;
   border-radius: 100rem;
+}
+
+.social-icons .active {
+    border: 2px solid lime;
 }
 
 @media (min-width: 992px) {
